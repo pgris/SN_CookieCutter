@@ -1,0 +1,12 @@
+{
+    "repo_name": "reponame",
+    "bin": "bin",
+    "test": "test",
+    "input": "input",
+    "output": "output",
+    "setups": "setups",
+    "sn_simulation": "sn_Simulation",
+    "sn_cosmo" : "sim_SNCosmo",
+    "sn_sim": "sim_SNSim",
+    "sn_ana": "sim_SNAna"
+}
